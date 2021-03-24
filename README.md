@@ -31,3 +31,7 @@ To run this program clone this repository into your workspace
 ```
 git clone https://github.com/NithaElizabeth/NaiveBayesClassifier
 ```
+## Author
+The system was developed by Nitha Elizabeth John as a part of academic curriculam of EMARO.\
+Author  : Nitha Elizabeth John\
+Contact : nithaelizabethjohn@gmail.com

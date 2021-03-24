@@ -17,3 +17,7 @@ The final posterior probability is calculated by taking the product of likelihoo
 ![2](https://user-images.githubusercontent.com/47361086/112359173-6f271400-8cea-11eb-9caf-aa917cd20e34.PNG)
 \
 This Laplace smoothing is introduced in the likelihood probabilities of both classes so as to ensure that no information is lost even if the frequency of observing a particular attribute is zero.
+### Result
+After testing the model, it was observed that the accuracy of the model was completely dependent on the data set chosen. When both training set and testing set were chosen randomly from the given data set,the mean accuracy obtained for 500 iterations was good enough (it varied from time to time). This case is shown in the below given Figure. 
+
+Later when the training set was fixed for all the iterations and only test set was chosen randomly,a mean accuracy of 85.60% was observed mostly.The training progress plot with accuracy for different iteration using same training set is shown in the following Figure.
